@@ -1,4 +1,4 @@
-package com.obg.springsecurityexcercise.user;
+package com.obg.springsecurityexercise.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

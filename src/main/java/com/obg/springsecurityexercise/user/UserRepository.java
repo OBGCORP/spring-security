@@ -1,4 +1,4 @@
-package com.obg.springsecurityexcercise.user;
+package com.obg.springsecurityexercise.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
